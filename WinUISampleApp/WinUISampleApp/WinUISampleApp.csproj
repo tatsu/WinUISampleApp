@@ -20,4 +20,8 @@
     <PackageReference Include="Microsoft.ProjectReunion.WinUI" Version="0.5.7" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
